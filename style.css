@@ -1,0 +1,1127 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+/*******************
+COMMON
+*******************/
+.background-image img {
+  width: 100%;
+  margin-top: 6%;
+}
+li {
+  list-style-type: none;
+}
+button.btn1 {
+  background-color: #f06363;
+  width: 8vw;
+  height: 3vw;
+  float: right;
+  margin-top: -5%;
+  border: none;
+  border-radius: 7px;
+  margin-right: 20%;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 500;
+  font-size: 23px;
+  font-weight: bolder;
+  word-spacing: 8px;
+}
+
+h1 {
+  position: absolute;
+  top: 14%;
+  color: #a6474d;
+  font-size: 14vh;
+  font-family: signpainter;
+  left: 5%;
+}
+@media screen and (max-width: 450px) {
+  .background-image img {
+    width: 100%;
+    margin-top: 6%;
+    height: 45vh;
+  }
+  button.btn1 {
+    background-color: #f06363;
+    width: 21vw;
+    height: 8vw;
+    float: right;
+    margin-top: -13%;
+    border: none;
+    border-radius: 4px;
+    margin-right: 7%;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 500;
+    font-size: large;
+    font-weight: bolder;
+    word-spacing: 8px;
+    font-family: roboto, "Helvetica Neue";
+  }
+  h1 {
+    position: absolute;
+    top: 12%;
+    color: #a6474d;
+    font-size: 5vh;
+    font-family: signpainter;
+    left: 4%;
+  }
+}
+/********************************
+FLOWER 1
+*********************************/
+.subimages .flowerimages .flower1 .imgflower1 {
+  width: 20%;
+  margin-top: 4%;
+}
+.flower1 h2.text1 {
+  margin-top: 5%;
+  font-family: roboto, "Helvetica Neue";
+  font-size: 58px;
+  float: right;
+  margin-right: 55%;
+  font-weight: bold;
+  color: #4a4a4a;
+}
+h3.cost1 {
+  font-family: roboto, "Helvetica Neue";
+  margin-right: 73%;
+  font-size: 4vh;
+  float: right;
+  margin-top: -5%;
+  font-weight: 400;
+  color: #4a4a4a;
+}
+@media screen and (max-width: 450px) {
+  .subimages .flowerimages .flower1 .imgflower1 {
+    width: 36%;
+    margin-top: 4%;
+  }
+  .flower1 h2.text1 {
+    margin-top: 5%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 24px;
+    float: right;
+    margin-right: 22%;
+    font-weight: bold;
+    color: #4a4a4a;
+  }
+  h3.cost1 {
+    font-family: roboto, "Helvetica Neue";
+    margin-right: 50%;
+    font-size: 3vh;
+    float: right;
+    margin-top: -5%;
+    font-weight: 400;
+    color: #4a4a4a;
+    margin-top: -12%;
+  }
+}
+/********************************
+FLOWER 2
+*********************************/
+
+.subimages .flowerimages .flower2 img.imgflower2 {
+  width: 20%;
+  margin-top: 4%;
+}
+h3.cost2 {
+  font-family: roboto, "Helvetica Neue";
+  margin-right: 73%;
+  font-size: 4vh;
+  float: right;
+  margin-top: -5%;
+  font-weight: 400;
+  color: #4a4a4a;
+}
+.flower2 h2.text2 {
+  margin-top: 5%;
+  font-family: roboto, "Helvetica Neue";
+  font-size: 58px;
+  float: right;
+  margin-right: 55%;
+  font-weight: bold;
+  color: #4a4a4a;
+}
+@media screen and (max-width: 450px) {
+  .subimages .flowerimages .flower2 img.imgflower2 {
+    width: 36%;
+    margin-top: 4%;
+  }
+  h3.cost2 {
+    font-family: roboto, "Helvetica Neue";
+    margin-right: 50%;
+    font-size: 3vh;
+    float: right;
+    margin-top: -5%;
+    font-weight: 300;
+    color: #4a4a4a;
+    margin-top: -12%;
+  }
+  .flower2 h2.text2 {
+    margin-top: 5%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 24px;
+    float: right;
+    margin-right: 22%;
+    font-weight: bold;
+    color: #4a4a4a;
+  }
+}
+
+/********************************
+FLOWER 3
+*********************************/
+
+.subimages .flowerimages .flower3 img.imgflower3 {
+  width: 20%;
+  margin-top: 4%;
+}
+.flower3 h3.cost3 {
+  font-family: roboto, "Helvetica Neue";
+  margin-right: 73%;
+  font-size: 4vh;
+  float: right;
+  margin-top: -5%;
+  font-weight: 400;
+  color: #4a4a4a;
+}
+.flower3 h2.text3 {
+  margin-top: 5%;
+  font-family: roboto, "Helvetica Neue";
+  font-size: 58px;
+  float: right;
+  margin-right: 52%;
+  font-weight: bold;
+  color: #4a4a4a;
+}
+@media screen and (max-width: 450px) {
+  .subimages .flowerimages .flower3 img.imgflower3 {
+    width: 36%;
+    margin-top: 4%;
+  }
+  .flower3 h3.cost3 {
+    font-family: roboto, "Helvetica Neue";
+    margin-right: 50%;
+    font-size: 3vh;
+    float: right;
+    margin-top: -5%;
+    font-weight: 400;
+    color: #4a4a4a;
+    margin-top: -12%;
+  }
+  .flower3 h2.text3 {
+    margin-top: 5%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 24px;
+    float: right;
+    margin-right: 18%;
+    font-weight: bold;
+    color: #4a4a4a;
+  }
+}
+
+/********************************
+FLOWER 4
+*********************************/
+
+.subimages .flowerimages .flower4 img.imgflower4 {
+  width: 20%;
+  margin-top: 4%;
+}
+h3.cost4 {
+  font-family: roboto, "Helvetica Neue";
+  margin-right: 73%;
+  font-size: 4vh;
+  float: right;
+  margin-top: -8%;
+  font-weight: 400;
+  color: #4a4a4a;
+}
+.flower4 h2.text4 {
+  margin-top: 5%;
+  font-family: roboto, "Helvetica Neue";
+  font-size: 58px;
+  float: right;
+  margin-right: 54%;
+  font-weight: bold;
+  color: #4a4a4a;
+}
+button.btn2 {
+  background-color: #f06363;
+  width: 8vw;
+  height: 3vw;
+  float: right;
+  margin-top: -8%;
+  border: none;
+  border-radius: 7px;
+  margin-right: 20%;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 500;
+  font-size: 23px;
+  font-weight: bolder;
+}
+@media screen and (max-width: 450px) {
+  .subimages .flowerimages .flower4 img.imgflower4 {
+    width: 36%;
+    margin-top: 4%;
+  }
+  h3.cost4 {
+    font-family: roboto, "Helvetica Neue";
+    margin-right: 50%;
+    font-size: 3vh;
+    float: right;
+    margin-top: -5%;
+    font-weight: 400;
+    color: #4a4a4a;
+    margin-top: -20%;
+  }
+  .flower4 h2.text4 {
+    margin-top: 5%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 24px;
+    float: right;
+    margin-right: 22%;
+    font-weight: bold;
+    color: #4a4a4a;
+  }
+  button.btn2 {
+    background-color: #f06363;
+    width: 21vw;
+    height: 8vw;
+    float: right;
+    margin-top: -20%;
+    border: none;
+    border-radius: 4px;
+    margin-right: 7%;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 500;
+    font-size: large;
+    font-weight: bolder;
+  }
+}
+.navbar .header-navbar {
+  background-color: blue;
+}
+.navbar .cartpic img.cartt {
+  width: 3%;
+  position: absolute;
+  top: 3%;
+  left: 86%;
+}
+.Cyber p {
+  left: 5%;
+  font-family: system-ui;
+  position: absolute;
+  font-size: 3vw;
+  top: 3%;
+  color: #f06363;
+  font-family: signpainter;
+}
+
+.sign p.sig a {
+  color: #e4e4e4;
+  position: absolute;
+  left: 80%;
+  top: 4%;
+  font-size: 3vh;
+  font-family: system-ui;
+  color: #f06363;
+  text-decoration: none;
+}
+.navbar .nav-footer {
+  position: absolute;
+  bottom: 100%;
+  background-color: #bcc0c7;
+  width: 60%;
+  padding: 0px 20%;
+  display: flex;
+}
+.nav-footer .foot {
+  position: absolute;
+  background-color: white;
+  width: 100%;
+}
+.footer {
+  width: 100%;
+  border-top: black;
+  position: fixed;
+  top: 90vh;
+  height: 10%;
+  background-color: white;
+  box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.8);
+}
+.navbar .header {
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  display: flex;
+  top: 0%;
+  height: 9%;
+}
+.footer .total h1 {
+  color: black;
+  font-family: system-ui;
+  font-size: 4vh;
+  position: absolute;
+  left: 44%;
+  top: 26%;
+  font-weight: 600;
+}
+.footer .total a .checkcart {
+  background-color: #f06363;
+  color: white;
+  height: 8vh;
+  font-size: 3vh;
+  width: 17vw;
+  position: absolute;
+  right: 19%;
+  top: 1vh;
+  border-radius: 3px;
+  border: none;
+}
+@media screen and (max-width: 450px) {
+  .navbar .header-navbar {
+    background-color: blue;
+  }
+  .navbar .cartpic img.cartt {
+    width: 8%;
+    position: absolute;
+    top: 2%;
+    left: 84%;
+  }
+  .Cyber p {
+    left: 5%;
+    font-family: system-ui;
+    position: absolute;
+    font-size: 7vw;
+    top: 3%;
+    color: #f06363;
+    font-family: signpainter;
+  }
+
+  .sign p.sig a {
+    position: absolute;
+    left: 66%;
+    top: 3%;
+    font-size: 3vh;
+    font-family: system-ui;
+    color: #f06363;
+    text-decoration: none;
+  }
+  .navbar .nav-footer {
+    position: absolute;
+    bottom: 100%;
+    background-color: #bcc0c7;
+    width: 60%;
+    padding: 0px 20%;
+    display: flex;
+  }
+  .nav-footer .foot {
+    position: absolute;
+    background-color: white;
+    width: 100%;
+  }
+  .footer {
+    width: 100%;
+    border-top: black;
+    position: fixed;
+    top: 93vh;
+    height: 12%;
+    background-color: white;
+    box-shadow: 2px rgb(0 0 0 / 80%);
+  }
+  .navbar .header {
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    top: 0%;
+    height: 9%;
+  }
+  .footer .total h1 {
+    color: black;
+    font-family: system-ui;
+    font-size: 3vh;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    font-weight: 600;
+  }
+  .footer .total a .checkcart {
+    background-color: #f06363;
+    color: white;
+    height: 8vh;
+    font-size: 5vw;
+    width: 41vw;
+    position: absolute;
+    right: 6%;
+    top: 1 vh;
+    border-radius: 3px;
+    border: none;
+  }
+}
+/*****************
+CART PAGE
+*****************/
+.orderitms {
+  width: 100%;
+  background-color: #f06363;
+  height: 23%;
+  position: absolute;
+  top: 12%;
+}
+.ordercontain .orderitms h1 {
+  position: absolute;
+  color: white;
+  font-size: 5vw;
+  left: 30%;
+  top: 27%;
+  font-weight: 100;
+  font-family: roboto, "Helvetica Neue";
+}
+.ordercontain .shiphead h1 {
+  color: black;
+  position: absolute;
+  top: 42%;
+  font-size: 4vh;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 400;
+}
+.ordercontain .shiphead .checksentence {
+  color: #000000;
+  position: absolute;
+  top: 50%;
+  left: 28%;
+  font-weight: 200;
+  font-family: roboto, "Helvetica Neue";
+  word-spacing: 5px;
+}
+.orderdetails .ordereditems h3 {
+  color: #353535;
+  position: absolute;
+  top: 57%;
+  left: 28%;
+  font-weight: 100;
+  font-family: roboto, "Helvetica Neue";
+}
+.orderdetails .ordereditems2 h3 {
+  font-weight: 100;
+  left: 28%;
+  color: #353535;
+  position: absolute;
+  top: 61%;
+  font-family: roboto, "Helvetica Neue";
+}
+.ordercontain .orderdetails .line {
+  background-color: #707070;
+  width: 60%;
+  height: 0.1%;
+  position: absolute;
+  top: 67%;
+  left: 28%;
+}
+.ordercontain .orderdetails .ordertotal h4 {
+  color: #000000;
+  font-size: 3vh;
+  position: absolute;
+  top: 70%;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 500;
+}
+h3.quantity {
+  font-weight: 100;
+  left: 75%;
+  color: #353535;
+  position: absolute;
+  top: 57%;
+  font-family: roboto, "Helvetica Neue";
+}
+h3.cost {
+  font-weight: 100;
+  left: 80%;
+  color: #353535;
+  position: absolute;
+  top: 57%;
+  font-family: system-ui;
+}
+h3.quantity2 {
+  font-weight: 100;
+  left: 75%;
+  color: #353535;
+  position: absolute;
+  top: 61%;
+  font-family: roboto, "Helvetica Neue";
+}
+h3.cost21 {
+  font-weight: 100;
+  left: 80%;
+  color: #353535;
+  position: absolute;
+  top: 61%;
+  font-family: roboto, "Helvetica Neue";
+}
+h3.total {
+  color: #000000;
+  position: absolute;
+  top: 70%;
+  left: 75%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 500;
+}
+h3.costtotal {
+  color: #000000;
+  position: absolute;
+  top: 70%;
+  left: 80%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 500;
+}
+.toenterdetails h2.name {
+  color: #000000;
+  position: absolute;
+  top: 77%;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 400;
+}
+
+input.placeholder {
+  text-align: center;
+}
+.emailField {
+  top: 83%;
+  left: 28%;
+  width: 32%;
+  position: absolute;
+  border: none;
+  text-align: center;
+  border-radius: 4px;
+  height: 5%;
+  background-color: #eaeaea;
+}
+input.placeholder {
+  text-align: center;
+}
+.phonenumber {
+  top: 98%;
+  left: 28%;
+  width: 32%;
+  position: absolute;
+  border: none;
+  text-align: center;
+  border-radius: 4px;
+  height: 5%;
+  background-color: #eaeaea;
+}
+.phonenum h2.name {
+  color: #000000;
+  position: absolute;
+  top: 92%;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 400;
+}
+input.placeholder {
+  text-align: center;
+}
+.streetaddress {
+  top: 115%;
+  left: 28%;
+  width: 32%;
+  position: absolute;
+  border: none;
+  text-align: center;
+  border-radius: 4px;
+  height: 5%;
+  background-color: #eaeaea;
+}
+.address h2.name {
+  color: #000000;
+  position: absolute;
+  top: 108%;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 400;
+}
+.pin h2.name {
+  color: #000000;
+  position: absolute;
+  top: 124%;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 400;
+}
+input.placeholder {
+  text-align: center;
+}
+.pincode {
+  top: 130%;
+  left: 28%;
+  width: 32%;
+  position: absolute;
+  border: none;
+  text-align: center;
+  border-radius: 4px;
+  height: 5%;
+  background-color: #eaeaea;
+}
+input.placeholder {
+  text-align: center;
+}
+.unit {
+  top: 147%;
+  left: 28%;
+  width: 32%;
+  position: absolute;
+  border: none;
+  text-align: center;
+  border-radius: 4px;
+  height: 5%;
+  background-color: #eaeaea;
+}
+.aptsuite h2.name {
+  color: #000000;
+  position: absolute;
+  top: 140%;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 400;
+}
+input.placeholder {
+  text-align: center;
+}
+.citydetails {
+  top: 162%;
+  left: 28%;
+  width: 32%;
+  position: absolute;
+  border: none;
+  text-align: center;
+  border-radius: 4px;
+  height: 5%;
+  background-color: #eaeaea;
+}
+.city h2.name {
+  color: #000000;
+  position: absolute;
+  top: 156%;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 400;
+}
+input.placeholder {
+  text-align: center;
+}
+.statedetails {
+  top: 176%;
+  left: 28%;
+  width: 32%;
+  position: absolute;
+  border: none;
+  text-align: center;
+  border-radius: 4px;
+  height: 5%;
+  background-color: #eaeaea;
+}
+.state h2.name {
+  color: #000000;
+  position: absolute;
+  top: 170%;
+  left: 28%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 400;
+}
+.submitbutton {
+  background-color: #f06363;
+  position: absolute;
+  top: 186%;
+  left: 28%;
+  width: 21%;
+  height: 11%;
+  border-radius: 4px;
+  color: white;
+  font-size: 4vh;
+  border: none;
+}
+@media screen and (max-width: 900px) {
+  .orderitms {
+    width: 100%;
+    background-color: #f06363;
+    height: 23%;
+    position: absolute;
+    top: 9%;
+  }
+  .ordercontain .orderitms h1 {
+    position: absolute;
+    color: white;
+    font-size: 9vw;
+    left: 16%;
+    top: 37%;
+    font-weight: 100;
+    font-family: "Helvetica Neue";
+  }
+  .ordercontain .shiphead h1 {
+    color: #000000;
+    position: absolute;
+    top: 42%;
+    font-size: 3vh;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 400;
+  }
+  .ordercontain .shiphead .checksentence {
+    color: #000000;
+    position: absolute;
+    top: 48%;
+    left: 10%;
+    font-weight: 200;
+    font-family: roboto, "Helvetica Neue";
+    word-spacing: 0px;
+    font-size: 2vh;
+  }
+  .orderdetails .ordereditems h3 {
+    color: #353535;
+    position: absolute;
+    top: 58%;
+    left: 10%;
+    font-weight: 100;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 2vh;
+  }
+  .orderdetails .ordereditems2 h3 {
+    font-weight: 100;
+    left: 10%;
+    color: #353535;
+    position: absolute;
+    top: 64%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 2vh;
+  }
+  .ordercontain .orderdetails .line {
+    background-color: #707070;
+    width: 87%;
+    height: 0.1%;
+    position: absolute;
+    top: 72%;
+    left: 10%;
+  }
+  .ordercontain .orderdetails .ordertotal h4 {
+    color: #000000;
+    font-size: 3vh;
+    position: absolute;
+    top: 74%;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 500;
+    font-size: 4vw;
+  }
+  h3.quantity {
+    font-weight: 100;
+    left: 77%;
+    color: #353535;
+    position: absolute;
+    top: 57%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 2vh;
+  }
+  h3.cost {
+    font-weight: 100;
+    left: 83%;
+    color: #353535;
+    position: absolute;
+    top: 57%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 2vh;
+  }
+  h3.quantity2 {
+    font-weight: 100;
+    left: 77%;
+    color: #353535;
+    position: absolute;
+    top: 64%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 2vh;
+  }
+  h3.cost21 {
+    font-weight: 100;
+    left: 83%;
+    color: #000000;
+    position: absolute;
+    top: 64%;
+    font-family: roboto, "Helvetica Neue";
+    font-size: 2vh;
+  }
+  h3.total {
+    color: #000000;
+    position: absolute;
+    top: 74%;
+    left: 76%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 500;
+    font-size: 4vw;
+  }
+  h3.costtotal {
+    color: #000000;
+    position: absolute;
+    top: 74%;
+    left: 81%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 500;
+    font-size: 4vw;
+  }
+  .toenterdetails h2.name {
+    color: #000000;
+    position: absolute;
+    top: 81%;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 400;
+    font-size: 5vw;
+  }
+
+  input.placeholder {
+    text-align: center;
+  }
+  .emailField {
+    top: 86%;
+    left: 10%;
+    width: 58%;
+    position: absolute;
+    border: none;
+    text-align: center;
+    border-radius: 4px;
+    height: 5%;
+  }
+  input.placeholder {
+    text-align: center;
+  }
+  .phonenumber {
+    top: 100%;
+    left: 10%;
+    width: 58%;
+    position: absolute;
+    border: none;
+    text-align: center;
+    border-radius: 4px;
+    height: 5%;
+  }
+  .phonenum h2.name {
+    color: #000000;
+    position: absolute;
+    top: 95%;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 400;
+    font-size: 5vw;
+  }
+  input.placeholder {
+    text-align: center;
+  }
+  .streetaddress {
+    top: 115%;
+    left: 10%;
+    width: 58%;
+    position: absolute;
+    border: none;
+    text-align: center;
+    border-radius: 4px;
+    height: 5%;
+  }
+  .address h2.name {
+    color: #000000;
+    position: absolute;
+    top: 110%;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 400;
+    font-size: 5vw;
+  }
+  .pin h2.name {
+    color: #000000;
+    position: absolute;
+    top: 125%;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 400;
+    font-size: 5vw;
+  }
+  input.placeholder {
+    text-align: center;
+  }
+  .pincode {
+    top: 131%;
+    left: 10%;
+    width: 58%;
+    position: absolute;
+    border: none;
+    text-align: center;
+    border-radius: 4px;
+    height: 5%;
+  }
+  input.placeholder {
+    text-align: center;
+  }
+  .unit {
+    top: 147%;
+    left: 10%;
+    width: 58%;
+    position: absolute;
+    border: none;
+    text-align: center;
+    border-radius: 4px;
+    height: 5%;
+  }
+  .aptsuite h2.name {
+    color: #000000;
+    position: absolute;
+    top: 141%;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 400;
+    font-size: 5vw;
+  }
+  input.placeholder {
+    text-align: center;
+  }
+  .citydetails {
+    top: 161%;
+    left: 10%;
+    width: 58%;
+    position: absolute;
+    border: none;
+    text-align: center;
+    border-radius: 4px;
+    height: 5%;
+  }
+  .city h2.name {
+    color: #000000;
+    position: absolute;
+    top: 156%;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 400;
+    font-size: 5vw;
+  }
+  input.placeholder {
+    text-align: center;
+  }
+  .statedetails {
+    top: 176%;
+    left: 10%;
+    width: 58%;
+    position: absolute;
+    border: none;
+    text-align: center;
+    border-radius: 4px;
+    height: 5%;
+  }
+  .state h2.name {
+    color: #000000;
+    position: absolute;
+    top: 171%;
+    left: 10%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 400;
+    font-size: 5vw;
+  }
+  .submitbutton {
+    background-color: #f06363;
+    position: absolute;
+    top: 186%;
+    left: 21%;
+    width: 37%;
+    height: 7%;
+    border-radius: 4px;
+    color: white;
+    font-size: 3vh;
+    border: none;
+  }
+}
+/********************
+THANK YOU PAGE
+********************/
+.orderitms .dismsg {
+  color: #e4e4e4;
+  position: absolute;
+  top: 37%;
+  left: 29%;
+  font-size: 3vw;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 500;
+}
+img.cartt {
+  position: absolute;
+  width: 3%;
+  top: 2%;
+  height: 5%;
+  left: 86%;
+}
+.thankyoumsg h2.thankmsg {
+  position: absolute;
+  color: #4e4e4e;
+  top: 41%;
+  left: 27%;
+  width: 51%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 300;
+}
+.homebtn {
+  position: absolute;
+  color: #e4e4e4;
+  top: 53%;
+  left: 39%;
+  width: 20%;
+  height: 12%;
+  background-color: #f06363;
+  font-size: 3vh;
+  border-radius: 5px;
+  border: none;
+}
+@media screen and (max-width: 900px) {
+  .orderitms .dismsg {
+    position: absolute;
+    color: #e4e4e4;
+    top: 47%;
+    left: 7%;
+    width: 92%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 500;
+    font-size: 6vw;
+  }
+  img.cartt {
+    position: absolute;
+    width: 6%;
+    top: 2%;
+    height: 5%;
+    left: 84%;
+  }
+  .thankyoumsg h2.thankmsg {
+    position: absolute;
+    color: #4e4e4e;
+    top: 40%;
+    left: 5%;
+    width: 92%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: 300;
+    font-size: 5vw;
+  }
+  a .homebtn {
+    position: absolute;
+    color: #e4e4e4;
+    top: 53%;
+    left: 25%;
+    width: 45%;
+    height: 10%;
+    background-color: #f06363;
+    font-size: 3vh;
+    border-radius: 4px;
+    border: none;
+  }
+}
