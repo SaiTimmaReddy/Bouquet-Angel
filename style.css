@@ -1125,3 +1125,431 @@ img.cartt {
     border: none;
   }
 }
+/********************************
+SIGNUP BOX
+********************************/
+.signup-box {
+  width: 36%;
+  margin: auto;
+  background-color: white;
+  border-radius: 3px;
+  position: fixed;
+  left: 37%;
+  top: 24%;
+}
+
+.login-box {
+  width: 26%;
+  height: 50%;
+  margin: auto;
+  border-radius: 3px;
+  background-color: white;
+  position: fixed;
+  top: 20%;
+  left: 40%;
+  background-color: #495050;
+}
+
+.signup-box h4.signnn {
+  text-align: center;
+  padding-top: 15px;
+  color: #4a4a4a;
+  padding-top: 23%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: 500;
+  font-size: 3vw;
+}
+
+h4 {
+  text-align: center;
+}
+
+form {
+  width: 300px;
+  margin-left: 20px;
+}
+
+form label {
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+form input {
+  width: 100%;
+  padding: 7px;
+  border: none;
+  border-radius: 2px;
+  outline: none;
+  margin-top: 17px;
+  text-align: start;
+  font-size: 20px;
+  border: solid gray 1px;
+  color: #bfbfbf;
+}
+input[type="button"] {
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #f06363;
+  color: white;
+  font-size: 18px;
+  border-radius: 2px;
+  text-align: center;
+}
+p {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 15px;
+  color: #272727;
+  word-spacing: 1px;
+  font-family: roboto, "Helvetica Neue";
+}
+.para-2 {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  margin-top: -10px;
+}
+.para-2 a {
+  color: #49c1a2;
+}
+.signup-box input.placeholder {
+  text-align: center;
+}
+a {
+  color: black;
+}
+p.cybe {
+  top: 4%;
+  font-size: 3vw;
+  position: absolute;
+  left: 25%;
+  font-family: system-ui;
+  color: #f06363;
+  font-family: signpainter;
+}
+p.shopp {
+  position: absolute;
+  top: 8%;
+  left: 46%;
+  font-size: 2vw;
+  margin-top: 0px;
+  font-family: system-ui;
+}
+h2.cancelbtn a {
+  color: #575757;
+  position: absolute;
+  left: 90%;
+  top: 3%;
+  font-family: roboto, "Helvetica Neue";
+  text-decoration: none;
+}
+@media screen and (max-width: 800px) {
+  .signup-box {
+    width: 82%;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+    position: fixed;
+    left: 10%;
+    top: 24%;
+  }
+
+  .login-box {
+    width: 26%;
+    height: 50%;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    position: fixed;
+    top: 20%;
+    left: 40%;
+    background-color: #495050;
+  }
+
+  .signup-box h4.signnn {
+    text-align: center;
+    padding-top: 15px;
+    padding-top: 23%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: bold;
+    font-size: 6vw;
+  }
+
+  h4 {
+    text-align: center;
+  }
+
+  form {
+    width: 50%;
+    margin-left: 55px;
+  }
+
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+
+  form input {
+    width: 100%;
+    padding: 7px;
+    border: 1 px solid rgb(156, 155, 155);
+    border-radius: 2px;
+    margin-top: 17px;
+    font-size: 18px;
+  }
+  input[type="button"] {
+    width: 110%;
+    height: 35px;
+    margin-top: 12px;
+    border: none;
+    background-color: #f06363;
+    color: white;
+    font-size: 18px;
+    border-radius: 2px;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 21px;
+    color: black;
+    word-spacing: 1px;
+    font-family: roboto, "Helvetica Neue";
+  }
+  .para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: #49c1a2;
+  }
+  .signup-box input.placeholder {
+    text-align: center;
+  }
+  a {
+    color: black;
+  }
+  p.cybe {
+    top: 2%;
+    font-size: 8vw;
+    position: absolute;
+    left: 25%;
+    font-family: signpainter;
+    color: #f06363;
+  }
+
+  h2.cancelbtn a {
+    color: #575757;
+    position: absolute;
+    left: 90%;
+    top: 3%;
+    font-family: roboto, "Helvetica Neue";
+    text-decoration: none;
+  }
+}
+.transparent {
+  background-color: white;
+  opacity: 0.3;
+}
+/***********
+STYLING FOR LOGIN BOX
+***********/
+
+.login-box {
+  width: 33%;
+  height: 50%;
+  margin: auto;
+  border-radius: 3px;
+  position: fixed;
+  top: 20%;
+  left: 34%;
+  background-color: white;
+}
+
+form.login {
+  width: 300px;
+  margin-left: 13%;
+  padding-top: 3%;
+}
+input {
+  width: 100%;
+  padding: 7px;
+  border: 1px solid #c7c2c2;
+  border-radius: 5px;
+  outline: none;
+  margin-top: 17px;
+  font-size: 20px;
+}
+input[type="button"] {
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #f06363;
+  color: white;
+  font-size: 18px;
+  border-radius: 2px;
+}
+h1.signnnnn {
+  text-align: center;
+  padding-top: 15px;
+  color: #575757;
+  padding-top: 18%;
+  font-family: roboto, "Helvetica Neue";
+  font-weight: bold;
+  font-size: 2vw;
+}
+p {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 20px;
+  color: black;
+  word-spacing: 1px;
+  font-family: roboto, "Helvetica Neue";
+}
+p.cybe {
+  top: 2%;
+  font-size: 4vw;
+  position: absolute;
+  left: 23%;
+  font-family: signpainter;
+  color: #f06363;
+}
+p.shopp {
+  position: absolute;
+  top: 9%;
+  left: 44%;
+  font-size: 2vw;
+  margin-top: 0px;
+  font-family: system-ui;
+}
+h2.cancelbtn a {
+  color: #575757;
+  position: absolute;
+  left: 90%;
+  top: 3%;
+  font-family: system-ui;
+  text-decoration: none;
+}
+a {
+  color: black;
+}
+.Cyber p {
+  left: 5%;
+  font-family: signpainter;
+  position: absolute;
+  font-size: 3vw;
+  top: 0%;
+  color: #f06363;
+}
+p.shop {
+  color: #e4e4e4;
+  position: absolute;
+  left: 13%;
+  font-size: 2vw;
+  top: 4%;
+}
+@media screen and (max-width: 450px) {
+  .login-box {
+    width: 78%;
+    margin: auto;
+    border-radius: 3px;
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    background-color: white;
+  }
+
+  form {
+    width: 300px;
+    margin-left: 13%;
+    padding-top: 3%;
+  }
+  input {
+    width: 64%;
+    padding: 7px;
+    border: 1px solid #c7c2c2;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 17px;
+    font-size: 20px;
+  }
+  input[type="button"] {
+    width: 209px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #f06363;
+    color: white;
+    font-size: 18px;
+    border-radius: 2px;
+  }
+  h1.signnnnn {
+    text-align: center;
+    padding-top: 15px;
+    color: #575757;
+    padding-top: 18%;
+    font-family: roboto, "Helvetica Neue";
+    font-weight: bold;
+    font-size: 6vw;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    color: black;
+    word-spacing: 1px;
+    font-family: roboto, "Helvetica Neue";
+  }
+  p.cybe {
+    top: 0%;
+    font-size: 9vw;
+    position: absolute;
+    left: 23%;
+    font-family: signpainter;
+    color: #f06363;
+  }
+  p.shopp {
+    position: absolute;
+    top: 9%;
+    left: 44%;
+    font-size: 2vw;
+    margin-top: 0px;
+    font-family: system-ui;
+  }
+  h2.cancelbtn a {
+    color: #575757;
+    position: absolute;
+    left: 90%;
+    top: 3%;
+    font-family: system-ui;
+    text-decoration: none;
+  }
+  a {
+    color: black;
+  }
+  .Cyber p {
+    left: 5%;
+    font-family: signpainter;
+    position: absolute;
+    font-size: 7vw;
+    top: 0%;
+    color: #f06363;
+  }
+  p.shop {
+    color: #e4e4e4;
+    position: absolute;
+    left: 13%;
+    font-size: 2vw;
+    top: 4%;
+  }
+}
+.transparent {
+  background-color: white;
+  opacity: 0.3;
+}
